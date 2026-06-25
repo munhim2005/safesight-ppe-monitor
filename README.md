@@ -83,6 +83,8 @@ Full training metrics, confusion matrix, and known per-class performance are doc
 ## Setup
 
 ```bash
+git clone https://github.com/munhim2005/safesight-ppe-monitor.git
+cd safesight-ppe-monitor
 pip install -r requirements.txt
 ```
 
